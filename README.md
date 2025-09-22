@@ -13,6 +13,8 @@
   </tr>
 </table>
 
+---
+
 ### Data Source  
 - **Type:** `.xlsx`  
 - 📂 **[Project Idea & Dataset](https://github.com/skanderboudawara/bac-data-analysis)**
@@ -20,6 +22,7 @@
   - `general-data`: aggregated stats over the years  
   - `data-per-bac`: detailed stats for each Baccalaureate field    
 
+---
 ### Data Visualization  
 ![1](https://github.com/mounatounakti/Tunisian-Baccalaureate-Data-Analysis-/blob/df08fccb8ccca228801c526f76c43f67d8b115ef/src/1.png)  
 → Candidate numbers have fluctuated over the last decade, peaking in 2021. There was a steady decline after 2014 before the sudden jump in 2021.  
@@ -67,6 +70,8 @@ Sportand Math have fewer students.
 ![8](https://github.com/mounatounakti/Tunisian-Baccalaureate-Data-Analysis-/blob/df08fccb8ccca228801c526f76c43f67d8b115ef/src/8.png)
 → Student preferences for Bac specializations have shifted: Technique jumped from 26% to 68%, Eco & Management rose from 27% to 73%, while Computer Experimental dropped from 61% to 39%.  
 **💡Insight:** Economic/technical tracks are becoming more attractive, while traditional science/IT streams are losing share.  
+
+---
 
 ### Conclusion  
 → The study provides a clear overview of Baccalaureate data in Tunisia.  
